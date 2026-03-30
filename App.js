@@ -18,7 +18,13 @@
       "package": "com.mr3hasan.bmicalculator"
     },
     "ios": {
-      "bundleIdentifier": "com.mr3hasan.bmicalculator"
+      "bundleIdentifier": "com.mr3hasan.bmicalculator",
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "564ff295-0168-4c94-873e-21722dcf2519"
+      }
     }
   }
 }
